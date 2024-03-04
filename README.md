@@ -1,5 +1,5 @@
-# [potentiometrics.github.io](https://potentiometrics.github.io)
-Machine Learning for Human Learners (Webpage)
+# [deepjuice-eco.github.io](https://potentiometrics.github.io)
+Squeezing your deep nets for Science! (Webpage)
 
 All credit to [Jasper](https://github.com/jekyllt/jasper) for the jekyll theme!
 
