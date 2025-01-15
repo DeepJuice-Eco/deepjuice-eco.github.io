@@ -1,3 +1,6 @@
+# IDE folders
+.vscode/
+
 # Jekyll site
 vendor/
 _site/
@@ -12,7 +15,7 @@ Gemfile.lock
 .ruby-version
 .ruby-gemset
 
-# Mac OS generated files
+# OS files
 .DS_Store
 .DS_Store?
 .Trashes
