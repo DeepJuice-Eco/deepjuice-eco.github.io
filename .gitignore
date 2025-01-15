@@ -1,0 +1,20 @@
+# Jekyll site
+vendor/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+
+# Ruby files
+*.gem
+Gemfile.lock
+.ruby-version
+.ruby-gemset
+
+# Mac OS generated files
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+Thumbs.db
